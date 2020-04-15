@@ -6,6 +6,7 @@ class ChildClass(ParentClass):
 
     def __init__(self):
         ParentClass.__init__(self, 2, 4)
+        print("Parent")
 
     def childmethod(self):
         print(self.num2 + self.getdata())
