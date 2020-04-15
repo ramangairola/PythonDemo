@@ -1,0 +1,12 @@
+2020-04-14 12:18:21,332 :INFO : testData :Raman
+2020-04-14 12:18:21,333 :INFO : testData :Gairola
+2020-04-14 12:20:06,498 :INFO : testData :Raman
+2020-04-14 12:20:06,498 :INFO : testData :Gairola
+2020-04-14 12:20:53,541 :INFO : test_Data :Raman
+2020-04-14 12:20:53,545 :INFO : test_Data :Gairola
+2020-04-14 12:26:21,682 :DEBUG :DemoPytest.test_logDemo: Debug
+2020-04-14 12:26:21,682 :CRITICAL :DemoPytest.test_logDemo: Critical
+2020-04-14 12:26:50,135 :INFO : test_Data :Raman
+2020-04-14 12:26:50,136 :INFO : test_Data :Gairola
+2020-04-14 12:26:50,145 :DEBUG :DemoPytest.test_logDemo: Debug
+2020-04-14 12:26:50,145 :CRITICAL :DemoPytest.test_logDemo: Critical
