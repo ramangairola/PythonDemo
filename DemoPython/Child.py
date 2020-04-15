@@ -9,6 +9,7 @@ class ChildClass(ParentClass):
 
     def childmethod(self):
         print(self.num2 + self.getdata())
+        print("Git basic commands")
 
 
 obj = ChildClass()
